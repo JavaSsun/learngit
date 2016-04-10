@@ -1,0 +1,8 @@
+Hello world!
+git checkout -b dev
+git checkout dev
+git branch dev
+git merge dev
+git branch
+git branch -d dev
+git is a good
